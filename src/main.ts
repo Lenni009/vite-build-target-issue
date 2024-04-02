@@ -1,0 +1,3 @@
+await import("./importedFile");
+
+export {};
